@@ -32,8 +32,3 @@
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/102x102/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/c4add386-0590-4b4b-b94c-f9a29d062312/public_url)
 [![Professional Cloud DevOps Engineer](https://images.credly.com/size/102x102/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png)](https://google.accredible.com/cc2b7e39-39e8-49e3-a9f0-d6b89b651f98#acc.p1dVDILw)
 [![Professional Cloud Architect](https://images.credly.com/size/102x102/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](https://google.accredible.com/1c46a698-5670-44cf-b39a-41ad4555125c#acc.Fmhtb2wT)
-
----
-
-> “Infrastructure should be boring. If it’s exciting, it’s probably on fire.”
-
