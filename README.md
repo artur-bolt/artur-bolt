@@ -17,7 +17,7 @@
 - 🌍 Based in Europe, available remotely worldwide  
 - 🛠️ Many years of experience designing and operating cloud infrastructure  
 - ☁️ AWS, GCP, Kubernetes, Terraform, CI/CD, observability, platform engineering and many more
-- 🏢 Run [monotools.xyz](https://monotools.xyz) — helping startups scale securely and efficiently  
+- 🏢 Run [anatomiq.dev](https://anatomiq.dev) — helping startups scale securely and efficiently  
 
 ---
 
