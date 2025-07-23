@@ -5,10 +5,10 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Website: [monotools.xyz](https://monotools.xyz)
+- 🌐 Website: [anatomiq.dev](https://anatomiq.dev)
 - 💼 LinkedIn: [linkedin.com/in/artur-boltrukiewicz](https://www.linkedin.com/in/arturboltrukiewicz/)
 - 🛠 GitHub: [@artur-bolt]([https://github.com/example-name](https://github.com/artur-bolt))
-- 📨 Email: `artur.boltrukiewicz@monotools.xyz`
+- 📨 Email: `artur.boltrukiewicz@anatomiq.dev`
 
 ---
 
